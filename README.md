@@ -26,5 +26,6 @@ Link stations are located at points (x, y) and have reach (r) ([x, y, r]):
 Print out function output from points (x, y):
 (0,0), (100, 100), (15,10) and (18, 18).
 
-# Usage 
-Use the following command on a terminal application ```node linkStationPower.js```
+# Usage
+Clone the repo to your pc then using your favorite terminal software navigate to the repo folder and type the following ```de linkStationPower.js``` to initialize the project locally 
+
