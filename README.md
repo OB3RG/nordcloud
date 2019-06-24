@@ -1,6 +1,5 @@
-# nordcloud
 
-Problem solving
+#Problem solving
 
 Write a program that solves the most suitable (with most power) link station for a device at given
 point [x,y].
@@ -26,3 +25,6 @@ Link stations are located at points (x, y) and have reach (r) ([x, y, r]):
 
 Print out function output from points (x, y):
 (0,0), (100, 100), (15,10) and (18, 18).
+
+# Usage 
+Use the following command on a terminal application ```node linkStationPower.js```
